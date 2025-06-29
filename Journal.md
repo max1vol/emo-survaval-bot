@@ -1,3 +1,10 @@
+---
+title: "Off-Grid Survival Emotionally Intelligent Bot"
+author: "max1 on highway slack"
+description: "A self-contained (no internet) self-powered (solar) voice bot, exactly the one you need for survaval critical missions"
+created_at: "2025-06-28"
+---
+
 28 June 2025
 
 Ideas.. ideas.. ideas...
