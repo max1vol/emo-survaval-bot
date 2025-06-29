@@ -6,6 +6,11 @@ It'll also have a "face" with motorized eye brows, nose and mouth and use those 
 
 It'll be powered from powerbank and will also have a solar panel for full autonomy.
 
+## Diagram
+
+![emo-bot](https://github.com/user-attachments/assets/a9e7d037-9f7b-4a07-a5e5-0a4537610c8a)
+
+
 ## Tech Stack
 
 ### Motor and wiring design 
