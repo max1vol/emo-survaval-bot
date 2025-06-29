@@ -1,6 +1,6 @@
 # Off-Grid Survival Emotionally Intelligent Bot
 
-We want to build an off grid all in one package which can listens and respond to voice queries.
+I want to build an off grid all in one package which can listens and respond to voice queries.
 
 It'll also have a "face" with motorized eye brows, nose and mouth and use those to express emotions.
 
