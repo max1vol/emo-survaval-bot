@@ -12,13 +12,25 @@ It'll be powered from powerbank and will also have a solar panel for full autono
 
 ## Tech Stack
 
-### Motor and wiring design 
-
-TODO
-
 ### Software
 
-The bot will be powered by Raspberry Pi 5 with Raspberry Pi AI HAT+
+The bot will be powered by Raspberry Pi 5 with 8GB RAM.
+
+We will run:
+1. Audio in / text out LLM: [Gemma 3n 2B active](https://huggingface.co/google/gemma-3n-E2B-it)
+2. Text to speech: [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M)
+
+### Model tuning
+
+Initially we will prompt Gemma 3n to focus on survival advice.
+
+LLM will output both text to pronounce by TTS (text to speech) and "emotional state" (one of pre-defined state strings).
+
+Emotion state will be translated into servo angles.
+
+### Motor and wiring design 
+
+To animate mouth and eye brows we will use SG90 servos connected to Raspberry Pi pins.
 
 ### Bill of Materials
 
@@ -38,4 +50,4 @@ The bot will be powered by Raspberry Pi 5 with Raspberry Pi AI HAT+
 
 ------
 
-Total: $206.9
+Total: $206.9 (including taxes)
