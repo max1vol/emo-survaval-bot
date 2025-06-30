@@ -44,6 +44,6 @@ Okay, here's how to build a basic shelter for one person in the woods:
 
 Here is the audio using Kokoro-82M:
 <audio controls>
-  <source src="https://github.com/max1vol/emo-survaval-bot/raw/refs/heads/main/samples/survaval-response-sample1.wav?raw=true" type="audio/mp3">
+  <source src="https://github.com/max1vol/emo-survaval-bot/raw/refs/heads/main/samples/survaval-response-sample1.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
