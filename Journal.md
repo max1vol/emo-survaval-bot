@@ -43,3 +43,16 @@ Okay, here's how to build a basic shelter for one person in the woods:
 ```
 
 Here is the audio using Kokoro-82M: [audio](https://github.com/max1vol/emo-survaval-bot/blob/main/samples/survaval-response-sample1.wav)
+
+30 June 2025 (evening)
+
+- Started learning how to do a CAD model!
+
+<img width="637" alt="image" src="https://github.com/user-attachments/assets/4bb23068-0d29-4b3c-803b-e87bd1571cb7" />
+  
+- Squares at the top are eyes (8x8 LEDs)
+<img width="349" alt="image" src="https://github.com/user-attachments/assets/d3387a8c-0872-43b7-8194-b5bf8ae0187d" />
+
+- The mouth will be animated by 
+- The horizontal rod is a mouth :)
+
