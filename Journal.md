@@ -22,3 +22,22 @@ Clarify the idea:
 - we need text to speech, oh, well we can use [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M)
 - we can animate the face and mouth with little servos
 - let's also add 8x8 LEDs for eyes!
+
+30 June 2025
+
+- I asked Gemma 3n E2B
+
+```txt
+how to make shelter in the woods for 1 person
+```
+using text Gemma 3n E2B outputted:
+```md
+Okay, here's how to build a basic shelter for one person in the woods:
+
+1.  **Find a site:** Look for a protected spot – avoid low-lying areas prone to flooding.  Consider wind direction.
+2.  **Lean-to:** Find a sturdy branch or fallen tree. Lean branches against it at a 45-degree angle.
+3.  **Cover:**  Pile leaves, pine needles, ferns, or other debris over the branches for insulation and weather protection. 
+4.  **Insulate:** Add extra layers of insulation at the base. 
+
+**Stay dry & warm.  Prioritize fire safety!**
+``` 
