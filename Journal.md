@@ -5,13 +5,13 @@ description: "A self-contained (no internet) self-powered (solar) voice bot, exa
 created_at: "2025-06-28"
 ---
 
-28 June 2025
+## 28 June 2025
 
 Ideas.. ideas.. ideas...
 
 Idea: create "animated face"
 
-29 June 2025
+## 29 June 2025
 
 Today is DEADLINE.
 
@@ -23,7 +23,7 @@ Clarify the idea:
 - we can animate the face and mouth with little servos
 - let's also add 8x8 LEDs for eyes!
 
-30 June 2025
+## 30 June 2025
 
 - I asked Gemma 3n E2B
 
@@ -44,7 +44,7 @@ Okay, here's how to build a basic shelter for one person in the woods:
 
 Here is the audio using Kokoro-82M: [audio](https://github.com/max1vol/emo-survaval-bot/blob/main/samples/survaval-response-sample1.wav)
 
-30 June 2025 (evening)
+## 30 June 2025 (evening)
 
 - Started learning how to do a CAD model!
 
@@ -56,3 +56,10 @@ Here is the audio using Kokoro-82M: [audio](https://github.com/max1vol/emo-surva
 - The mouth will be animated by 
 - The horizontal rod is a mouth :)
 
+## 1 June 2025
+- Successfully running Gemma 3n E2B with text, it works!
+- Experiemnted with running Gemma 3n E2B with *audio* -- does not work
+- Text-to-speech module (Kokoro) -- works!
+
+## 2 June 2025
+- Change of plans: instead of Gemma "native audio", I'll use
