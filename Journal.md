@@ -62,4 +62,14 @@ Here is the audio using Kokoro-82M: [audio](https://github.com/max1vol/emo-surva
 - Text-to-speech module (Kokoro) -- works!
 
 ## 2 June 2025
-- Change of plans: instead of Gemma "native audio", I'll use
+- Change of plans: instead of Gemma "native audio", I'll use ASR+TTS and LLM for text only
+- Experiments with Whisper-turbo
+
+## 3 June 2025
+- Trying to figure out how solar panel charging a batter would work
+- Realized that BOM does not include battery (!)
+- Got old Raspberry Pi 3, trying to setup 1B llama
+
+## 4 June 2025
+- Got Google Voice Kit (from my sister)
+- Experiemnting with voice input/output
