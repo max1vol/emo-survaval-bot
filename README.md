@@ -18,7 +18,7 @@ The bot will be powered by Raspberry Pi 5 with 8GB RAM.
 
 We will run:
 1. Audio in / text out LLM: [Gemma 3n 2B active](https://huggingface.co/google/gemma-3n-E2B-it)
-2. Text to speech: [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M)
+2. Text to speech: [Kokoro-82M](https://fal.ai/models/fal-ai/kokoro/american-english/playground)
 
 ### Model tuning
 
