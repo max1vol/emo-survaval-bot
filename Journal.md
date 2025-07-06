@@ -5,7 +5,7 @@ description: "A self-contained (no internet) self-powered (solar) voice bot, exa
 created_at: "2025-06-28"
 ---
 
-Total time spent: 31h
+Total time spent: 27h
 
 ## 28 June 2025
 
@@ -100,7 +100,7 @@ Here is the audio using Kokoro-82M: [audio](https://github.com/max1vol/emo-surva
 
 ## 5 June 2025
 
-> Spent: 6h
+> Spent: 2h
 
 - Got Kokoro TTS workin in INT8 locally using ONXX!!
 
