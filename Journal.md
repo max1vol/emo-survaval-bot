@@ -5,13 +5,19 @@ description: "A self-contained (no internet) self-powered (solar) voice bot, exa
 created_at: "2025-06-28"
 ---
 
+Total time spent: 31h
+
 ## 28 June 2025
+
+> Spent: 1h
 
 Ideas.. ideas.. ideas...
 
 Idea: create "animated face"
 
 ## 29 June 2025
+
+> Spent: 2h
 
 Today is DEADLINE.
 
@@ -24,6 +30,8 @@ Clarify the idea:
 - let's also add 8x8 LEDs for eyes!
 
 ## 30 June 2025
+
+> Spent: 2h
 
 - I asked Gemma 3n E2B
 
@@ -48,6 +56,8 @@ Here is the audio using Kokoro-82M: [audio](https://github.com/max1vol/emo-surva
 
 ## 30 June 2025 (evening)
 
+> Spent: 3h
+
 - Started learning how to do a CAD model!
 
 <img width="637" alt="image" src="https://github.com/user-attachments/assets/4bb23068-0d29-4b3c-803b-e87bd1571cb7" />
@@ -60,16 +70,22 @@ Here is the audio using Kokoro-82M: [audio](https://github.com/max1vol/emo-surva
 
 ## 1 June 2025
 
+> Spent: 4h
+
 - Successfully running Gemma 3n E2B with text, it works!
 - Experiemnted with running Gemma 3n E2B with _audio_ -- does not work
 - Text-to-speech module (Kokoro) -- works!
 
 ## 2 June 2025
 
+> Spent: 2h
+
 - Change of plans: instead of Gemma "native audio", I'll use ASR+TTS and LLM for text only
 - Experiments with Whisper-turbo
 
 ## 3 June 2025
+
+> Spent: 3h
 
 - Trying to figure out how solar panel charging a batter would work
 - Realized that BOM does not include battery (!)
@@ -77,10 +93,14 @@ Here is the audio using Kokoro-82M: [audio](https://github.com/max1vol/emo-surva
 
 ## 4 June 2025
 
+> Spent: 2h
+
 - Got Google Voice Kit (from my sister)
 - Experiemnting with voice input/output
 
 ## 5 June 2025
+
+> Spent: 6h
 
 - Got Kokoro TTS workin in INT8 locally using ONXX!!
 
@@ -88,6 +108,8 @@ See https://github.com/max1vol/emo-survaval-bot/blob/main/tts/tts.py
 And https://github.com/max1vol/emo-survaval-bot/blob/main/tts/audio.wav
 
 ## 6 June 2025
+
+> Spent: 6h
 
 - LLM is working!
 - Experimented with Qwen3-0.6B, it's a thinking model
