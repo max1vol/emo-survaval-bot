@@ -115,3 +115,4 @@ And https://github.com/max1vol/emo-survaval-bot/blob/main/tts/audio.wav
 - Experimented with Qwen3-0.6B, it's a thinking model
 - Experimented with Google's Gemma 3 1B Q4 quantization
 - Aiming to run Gemma3-1B as thinking model might be not great for real-time chat
+- Got ASR (automatic speech recognition) working using Whisper/tiny.en
