@@ -73,3 +73,9 @@ Here is the audio using Kokoro-82M: [audio](https://github.com/max1vol/emo-surva
 ## 4 June 2025
 - Got Google Voice Kit (from my sister)
 - Experiemnting with voice input/output
+
+## 5 June 2025
+- Got Kokoro TTS workin in INT8 locally using ONXX!!
+
+See https://github.com/max1vol/emo-survaval-bot/blob/main/tts/tts.py
+And https://github.com/max1vol/emo-survaval-bot/blob/main/tts/audio.wav
