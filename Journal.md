@@ -5,7 +5,7 @@ description: "A self-contained (no internet) self-powered (solar) voice bot, exa
 created_at: "2025-06-28"
 ---
 
-Total time spent: 27h
+Total time spent: 31h
 
 ## 28 June 2025
 
@@ -116,3 +116,10 @@ And https://github.com/max1vol/emo-survaval-bot/blob/main/tts/audio.wav
 - Experimented with Google's Gemma 3 1B Q4 quantization
 - Aiming to run Gemma3-1B as thinking model might be not great for real-time chat
 - Got ASR (automatic speech recognition) working using Whisper/tiny.en
+
+## 7 June 2025
+
+> Spent: 4h
+
+- Integrated ASR (speech recognition), LLM (text answering), and TTS (text to speech)
+- The whole bot is working end-to-end!
